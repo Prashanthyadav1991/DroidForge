@@ -10,7 +10,6 @@ DroidForge is a lightweight, Python-powered desktop toolkit designed to simplify
 * **One-Click Sideload:** Easily install APKs or push files to `/sdcard`.
 * **Root & Recovery:** Automated scripts for flashing TWRP/OrangeFox and Magisk.
 * **System Debloater:** Remove "junk" system apps without needing root.
-* **Safe Partitioning:** Specialized tools for repartitioning (highly useful for Project Renegade/Windows on ARM).
 * **Device Info:** Real-time monitoring of connected devices and their status (ADB/Fastboot/Sideload).
 
 ## 🚀 Installation & Usage
