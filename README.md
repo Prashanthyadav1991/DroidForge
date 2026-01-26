@@ -1,4 +1,3 @@
-[![Download DroidForge](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Prashanthyadav1991/DroidForge/releases/latest)
 # 🛠️ DroidForge (v1.0.0)
 **The Ultimate All-in-One Android Utility for Enthusiasts**
 
@@ -32,3 +31,5 @@ Contributions are what make the open-source community an amazing place to learn 
 
 ## ⚠️ Disclaimer
 Modifying your Android device carries risks. I am not responsible for bricked devices, dead SD cards, or thermonuclear war. **Always backup your data before flashing!**
+
+[![Download DroidForge](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Prashanthyadav1991/DroidForge/releases/latest)
