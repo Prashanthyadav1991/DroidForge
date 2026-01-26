@@ -14,7 +14,7 @@ DroidForge is a lightweight, Python-powered desktop toolkit designed to simplify
 * **Device Info:** Real-time monitoring of connected devices and their status (ADB/Fastboot/Sideload).
 
 ## 🚀 Installation & Usage
-1.  Download the latest `DroidForge_v1.0.0.exe` from the [Releases](link-to-your-github-release) tab.
+1.  Download the latest `DroidForge_v1.0.0.exe` release.
 2.  Ensure **USB Debugging** is enabled on your phone.
 3.  Connect your device and launch the app. No Python installation required!
 
