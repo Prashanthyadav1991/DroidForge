@@ -1,3 +1,4 @@
+[![Download DroidForge](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Prashanthyadav1991/DroidForge/releases/latest)
 # 🛠️ DroidForge (v1.0.0)
 **The Ultimate All-in-One Android Utility for Enthusiasts**
 
